@@ -10,15 +10,20 @@ It is built for one simple job:
 
 ## Why I made this
 
-On 02-07-2026 I wanted to watch *Spider-Man: Brand New Day*, which releases on 30-07-2026. The only theatre available for prebooking in my city was around 40km away from my place, so I built this tool to notify me on my phone when a new theatre gets added on BookMyShow for the first-day show.
+sooooo on 02-07-2026 i wanted to watch the spiderman brand new day movie which releases on 30-07-2026 andddd the movie was available to prebook only on one theatre in my city which is around 40km away from my place and so..... 
+me being me
+i made a program which will notify me on my phone if a new theatre is available to prebook in bookmyshow for the first day show of spiderman brand new day
 
-I’m a very big Spider-Man fan, so yes, this was a completely normal and definitely not obsessive project.
+i cant help but im a very big fan of spiderman
+hehehehe
 
-You can use it too if you want phone notifications when a movie suddenly gets more prebooking options.
+you can use this program if you wanna get a notification when you wanna prebook for a movie  
 
-If you read the whole thing, love ya :)
+if you did read the whole paragraph where i was yapping the whole time
+love ya
+:)
 
-See yaa
+see yaa
 
 ## Features
 
