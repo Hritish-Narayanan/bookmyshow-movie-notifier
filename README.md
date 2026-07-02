@@ -10,8 +10,13 @@ It is built for one simple job:
 
 ## Why I made this
 
-sooooo on 02-07-2026 i wanted to watch the spiderman brand new day movie which releases on 30-07-2026 andddd the movie was available to prebook only on one theatre in my city which is around 40km away from my place and so..... 
+sooooo on 02-07-2026 i wanted to watch the spiderman brand new day movie
+which releases on 30-07-2026 
+andddd the movie was available to prebook 
+only on one theatre in my city which is around 40km away from my place and so..... 
+
 me being me
+
 i made a program which will notify me on my phone if a new theatre is available to prebook in bookmyshow for the first day show of spiderman brand new day
 
 i cant help but im a very big fan of spiderman
